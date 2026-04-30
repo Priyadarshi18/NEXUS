@@ -1,0 +1,29 @@
+[
+  {
+    "candidate_name": "Monalisa Behera",
+    "match_score": 15,
+    "analysis": "The resume lacks critical technical skills required for the AI/ML Engineer role, with only Python, HTML/CSS, and SQL being matched. The candidate's experience in NLP and machine learning is not reflected in the JD requirements.",
+    "top_skills": [
+      "Python",
+      "HTML/CSS",
+      "SQL"
+    ],
+    "missing_skills": [
+      "React",
+      "Node",
+      "AWS",
+      "PyTorch",
+      "TensorFlow",
+      "JAX",
+      "Scikit-learn",
+      "Hugging Face",
+      "C++",
+      "Java"
+    ],
+    "shortlist_status": false,
+    "resume_filename": "RESUME (3).pdf",
+    "id": "1777563265685",
+    "created_at_date": "30 APR 2026",
+    "created_at_time": "09:04 PM IST"
+  }
+]
